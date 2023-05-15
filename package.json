@@ -1,5 +1,6 @@
 {
   "publisher": "sp3",
+  "repository": "https://github.com/sp3ru/vsce_split-selection-words",
   "name": "split-selection-words",
   "displayName": "split selection words",
   "description": "Split selection into lines OR line into words",
